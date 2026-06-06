@@ -1,7 +1,5 @@
 # OMFuse
 
-Official implementation of:
-
 **Occlusion-Aware and Modality-Guided Network for Robust Video-Based Visible-Infrared Person Re-Identification**
 
 🎉 The complete source code has been released.
